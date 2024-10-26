@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">GreenLive</string>
+
+    <!-- 默认占位提示符 -->
+    <!-- 格式:hint_提示符描述范围_具体描述 -->
+    <!--
+        status:app系统所属状态描述
+        result:返回结果描述
+        action:动作描述
+        service:提供服务、功能描述
+        des:不知道啥描述，反正是描述
+    -->
+    <string name="fbi_warning">FBI WARNING</string>
+    <string name="hint_des_placeholder">空白占位符</string>
+    <string name="hint_status_networkOut">网络未连接</string>
+    <string name="hint_status_networkIn">网络已连接</string>
+    <string name="hint_action_login">登录</string>
+    <string name="hint_action_register">注册</string>
+    <string name="hint_action_logout">注销</string>
+    <string name="hint_status_logout">未登录</string>
+    <string name="hint_service_collection">收藏</string>
+    <string name="hint_service_live">直播</string>
+    <string name="hint_service_video">视频</string>
+    <string name="hint_service_music">音频</string>
+    <string name="hint_service_picture">图片</string>
+    <string name="hint_service_setting">设置</string>
+    <string name="hint_action_back">返回</string>
+    <string name="hint_action_thumb">点赞</string>
+    <string name="hint_action_prosecute">举报</string>
+
+
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- 系统脑残配色 -->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -7,4 +8,25 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- P站经典配色 -->
+    <color name="pornhub_white">#ffffff</color>
+    <color name="pornhub_orange">#ffa31a</color>
+    <color name="pornhub_black">#1b1b1b</color>
+
+    <!-- GreenLive通用背景色 -->
+    <!-- 偏小清新 -->
+    <!-- 感觉应该整个app都采用绿、白、蓝配色，好看点 -->
+    <color name="bg_white">#F6F6F6</color>
+    <color name="bg_yellow">#E3D2A1</color>
+    <color name="bg_blue">#6DB8F3</color>
+    <color name="bg_grey">#8a8a8a</color>
+    <color name="bg_green">#6BD56F</color>
+    <color name="bg_black">#151C16</color>
+
+    <!-- GreenLive图标默认组合色 -->
+    <color name="ic_green">#6BD56F</color>
+    <color name="ic_blue">#6DB8F3</color>
+    <color name="ic_white">#F6F6F6</color>
 </resources>
